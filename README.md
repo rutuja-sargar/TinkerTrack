@@ -1,4 +1,5 @@
 # TinkerTrack
+<<<<<<< HEAD
 
 Cloud-Native Electronics Lab Inventory & Component Tracking System
 
@@ -139,3 +140,6 @@ TinkerTrack/
 ## License
 
 This project is provided as a starter database schema for lab and inventory workflows. Update the license terms as needed for your deployment environment.
+=======
+Cloud-Native Electronics Lab Inventory &amp; Component Tracking System
+>>>>>>> eb794ea94e23a10179d5687f9d5803f3ea6fea22

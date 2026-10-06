@@ -1,5 +1,5 @@
 # TinkerTrack
-<<<<<<< HEAD
+
 
 Cloud-Native Electronics Lab Inventory & Component Tracking System
 
